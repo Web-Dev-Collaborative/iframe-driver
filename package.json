@@ -1,0 +1,7 @@
+{
+  "name": "iframe-driver",
+  "version": "1.0.0",
+  "description": "Load and test web page with an IFRAME",
+  "main": "index.es",
+  "license": "MIT"
+}
